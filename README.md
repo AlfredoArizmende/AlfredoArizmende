@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQEbwDv-hhCEGg/profile-displaybackgroundimage-shrink_350_1400/0/1681182193684?e=1693440000&v=beta&t=TXpENypTNZRF3ogWEmDlxK_1A7N7teiKPOJui7SrzZA" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/AlfredoArizmende/portfolio_nextjs/main/public/Portada-LinkedIn-Alfredo.png" align="center" style="width: 100%" />
 </div>  
   
 
